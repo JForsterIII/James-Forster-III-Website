@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - Second Tab for Website.qmd
       - about.qmd
 
 format:

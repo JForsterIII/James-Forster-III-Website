@@ -3,24 +3,24 @@
     "path": "~/JFIII Files /James Forster III Website/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "3043774935",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1710336840769.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,34",
-        "scrollLine": "0"
+        "cursorPosition": "1,6",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710339237,
+    "lastKnownWriteTime": 1710339762,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710339502759,
+    "last_content_update": 1710339762621,
     "read_only": false,
     "read_only_alternatives": []
 }
