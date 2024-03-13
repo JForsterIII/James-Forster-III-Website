@@ -1,4 +1,3 @@
 ---
 title: "More Content"
-editor: visual
 ---
