@@ -1,10 +1,38 @@
 [
   {
+    "objectID": "Labs.html",
+    "href": "Labs.html",
+    "title": "Labs",
+    "section": "",
+    "text": "Here I will put all my labs for the course!"
+  },
+  {
+    "objectID": "Presentation.html",
+    "href": "Presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Here I will link all the files for my presentation for the course project!"
+  },
+  {
+    "objectID": "Project.html",
+    "href": "Project.html",
+    "title": "Project",
+    "section": "",
+    "text": "Here I will link all the files for my course project, which will be introduced after Spring Break."
+  },
+  {
+    "objectID": "Second Tab for Website.html",
+    "href": "Second Tab for Website.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to my website for Evolutionary Genomics and Bioinformatics!"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My name is James Forster III and I am a 4th year PhD student in the Kulkarni Immunoengineering Lab at UMass! My research focuses on the adaptation of mRNA and combination nanotherapeutics targeted to modulate the innate immune system and treat chronic inflammatory disease and cancer. This work has resulted in 5 publications so far, the first of which I will introduce in the section “My first manuscript” below. Outside of lab, I enjoy spending time with friends and family, cooking, and most importantly, playing guitar and listening to rock, metal, and jazz music.\n\n\n\nMe playing guitar at a concert"
   },
   {
     "objectID": "index.html",

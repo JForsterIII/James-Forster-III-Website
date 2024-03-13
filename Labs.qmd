@@ -1,0 +1,5 @@
+---
+title: "Labs"
+---
+
+Here I will put all my labs for the course!

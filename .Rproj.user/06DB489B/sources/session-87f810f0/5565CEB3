@@ -1,14 +1,14 @@
 {
-    "id": "09C0F5BF",
-    "path": "~/JFIII Files /James Forster III Website/Second Tab for Website.qmd",
-    "project_path": "Second Tab for Website.qmd",
+    "id": "5565CEB3",
+    "path": "~/JFIII Files /James Forster III Website/Presentation.qmd",
+    "project_path": "Presentation.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1710339273093.0,
+    "created": 1710341363282.0,
     "source_on_save": true,
-    "relative_order": 3,
+    "relative_order": 7,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "92:0"
+        "rmdVisualModeLocation": "107:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710341459,
+    "lastKnownWriteTime": 1710341455,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710341459605,
+    "last_content_update": 1710341455245,
     "read_only": false,
     "read_only_alternatives": []
 }
