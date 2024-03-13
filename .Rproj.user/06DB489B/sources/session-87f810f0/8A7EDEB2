@@ -3,7 +3,7 @@
     "path": "~/JFIII Files /James Forster III Website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "296697755",
+    "hash": "2429661719",
     "contents": "",
     "dirty": false,
     "created": 1710336840285.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "199:152.6666717529297",
-        "cursorPosition": "8,18",
+        "cursorPosition": "7,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710342498,
+    "lastKnownWriteTime": 1710342920,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710342498990,
+    "last_content_update": 1710342920624,
     "read_only": false,
     "read_only_alternatives": []
 }
