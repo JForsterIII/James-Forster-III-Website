@@ -7,6 +7,13 @@
     "text": "Here I will put all my labs for the course! Ok."
   },
   {
+    "objectID": "My First Paper.html",
+    "href": "My First Paper.html",
+    "title": "My First Paper",
+    "section": "",
+    "text": "In my first first-author manuscript, Forster et al.Biomaterials Science, 2022, I studied the specific molecular-level activation of the innate immune system in response to mRNA lipid nanoparticle delivery systems, much like the Covid vaccines we were all given during the pandemic. To do this, I systematically varied the key lipid components in the nanoparticle vaccines, and assessed the resultant levels of activation of a key macrophage immune response, the NLRP3 inflammasome. You can see the schematic figure from the paper below:\n\n\n\nSchematic showing the potential activation of the NLRP3 inflammasome pathway by mRNA loaded lipid nanoparticles"
+  },
+  {
     "objectID": "Presentation.html",
     "href": "Presentation.html",
     "title": "Presentation",
@@ -32,7 +39,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "My name is James Forster III and I am a 4th year PhD student in the Kulkarni Immunoengineering Lab at UMass! My research focuses on the adaptation of mRNA and combination nanotherapeutics targeted to modulate the innate immune system and treat chronic inflammatory disease and cancer. This work has resulted in 5 publications so far, the first of which I will introduce in the section “My first manuscript” below. Outside of lab, I enjoy spending time with friends and family, cooking, and most importantly, playing guitar and listening to rock, metal, and jazz music. Done.\n\n\n\nMe playing guitar at a concert"
+    "text": "My name is James Forster III and I am a 4th year PhD student in the Kulkarni Immunoengineering Lab at UMass! My research focuses on the adaptation of mRNA and combination nanotherapeutics targeted to modulate the innate immune system and treat chronic inflammatory disease and cancer. This work has resulted in 5 publications so far, the first of which I will introduce in the section “My first manuscript” on this website. Outside of lab, I enjoy spending time with friends and family, cooking, and most importantly, playing guitar and listening to rock, metal, and jazz music.\n\n\n\nMe playing guitar at a concert"
   },
   {
     "objectID": "index.html",

@@ -1,0 +1,7 @@
+---
+title: "My First Paper"
+---
+
+In my first first-author manuscript, [Forster et al.Biomaterials Science, 2022](https://pubmed.ncbi.nlm.nih.gov/35971974/), I studied the specific molecular-level activation of the innate immune system in response to mRNA lipid nanoparticle delivery systems, much like the Covid vaccines we were all given during the pandemic. To do this, I systematically varied the key lipid components in the nanoparticle vaccines, and assessed the resultant levels of activation of a key macrophage immune response, the NLRP3 inflammasome. You can see the schematic figure from the paper below:
+
+![Schematic showing the potential activation of the NLRP3 inflammasome pathway by mRNA loaded lipid nanoparticles](Manuscript Figure 1 for Evo Geno.JPG)
